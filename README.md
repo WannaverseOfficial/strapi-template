@@ -1,0 +1,2 @@
+# strapi-template
+Strapi boilerplate
